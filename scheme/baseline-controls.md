@@ -1,0 +1,26 @@
+# Baseline Controls
+
+## Organizational Controls
+
+* Leadership
+* Accountability
+* Cyber Security Training
+* Cyber Security Risk Assessment
+
+## Baseline Security Controls
+
+* Incident Response Plan
+* Automatically patch operating systems and applications
+* Enable Secuirty Software
+* Use Strong User Authentication
+* Backup and Encrypt Data
+* Establish Basic Permiter Defences
+* Implement Access Control and Authorization
+
+## Baseline Controls By Operating Environment
+
+* Security Mobility
+* Secure Cloud and Outsourced IT Services
+* Secure Websites
+* Point of Sale(POS) And Financial Systems
+* Computer Security Log Management

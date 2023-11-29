@@ -11,4 +11,8 @@ This conformity assessment scheme support the national cybersecurity certificati
 3. Select and accredited certification body
 4. Undergo formal audit and certification
 
+# Baseline Controls
+
+[Baseline Controls](./scheme/baseline-controls.md)
+
 Further details can be found at [CyberSecure Canada](https://ised-isde.canada.ca/site/cybersecure-canada/en)
