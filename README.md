@@ -1,8 +1,8 @@
-# Conformity Assessment Scheme: Baselinke Cyber Security Controls for Small and Medium Organizations
+# Conformity Assessment Scheme: Baseline Cyber Security Controls for Small and Medium Organizations
 
 ## Overview
 
-This conformity assessment scheme support the national cybersecurity certification program for small and medium-sized organizations.
+This conformity assessment scheme supports the national cybersecurity certification program for small and medium-sized organizations.
 
 * Applicable Standard: [CAN/CIOSC 104: 2021 Baseline Cyber Security Controls for Small and Medium Organizations](https://dgc-cgn.org/standards/find-a-standard/standards-in-cybersecurity/cybersecurity-smes/)
 * Cybercatch Compliance Manager: [CAN/CIOSC 104 Compliance Manager](https://dgc-cgn.org/can-ciosc-104-compliance-manager/)
