@@ -2,8 +2,8 @@
 
 ## Organizational Controls
 
-* Leadership
-* Accountability
+* [Leadership](./4-1-leadership.md)
+* [Accountability](./4-2-accountability.md)
 * Cyber Security Training
 * Cyber Security Risk Assessment
 
