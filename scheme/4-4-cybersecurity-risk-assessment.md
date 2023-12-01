@@ -1,7 +1,5 @@
 # 4.4 Cyber Security Risk Asssessment
 
-* Learning module [Leadership, Accountability and Cyber Security Risk Assessment](https://learning-apprentissage.ised-isde.canada.ca/enrol/index.php?id=239)]
-
 ## 4.3.2.1 The organization shall train employees on basic security practices, including a focus on the following practical and easily implementable measures
 
 - The use of effective password policies (see Subsection 5.5);
