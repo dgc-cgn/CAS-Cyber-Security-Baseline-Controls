@@ -1,5 +1,7 @@
 # 4.1 Leadership
 
+* Learning module [Leadership, Accountability and Cyber Security Risk Assessment](https://learning-apprentissage.ised-isde.canada.ca/enrol/index.php?id=239)]
+
 ## 4.1.2.1 Top management shall demonstrate their commitment to the cyber security program by
 
 - ensuring the cyber security policy and objectives are established and are aligned with the strategic direction of the organization;

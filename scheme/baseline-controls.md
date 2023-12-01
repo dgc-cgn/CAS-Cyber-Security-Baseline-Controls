@@ -2,9 +2,9 @@
 
 ## Organizational Controls
 
-* [Leadership](./4-1-leadership.md)
-* [Accountability](./4-2-accountability.md)
-* Cyber Security Training
+* [4.1 Leadership](./4-1-leadership.md)
+* [4.2 Accountability](./4-2-accountability.md)
+* [4.3 Cyber Security Training](./4-3-cybersecurity-training.md)
 * Cyber Security Risk Assessment
 
 ## Baseline Security Controls
