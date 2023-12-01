@@ -1,5 +1,7 @@
 # 4.2 Accountability
 
+Learning module [Leadership, Accountability and Cyber Security Risk Assessment](https://learning-apprentissage.ised-isde.canada.ca/enrol/index.php?id=239)]
+
 ## 4.2.3.1 Top management shall appoint a member of the senior-level leadership team to oversee and be accountable for the organization’s IT security. Accountabilities of the member of the senior-level
 
 - developing and implementing a company-wide information cyber security program to meet baseline cyber security controls;
