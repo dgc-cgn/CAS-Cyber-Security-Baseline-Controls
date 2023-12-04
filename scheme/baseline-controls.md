@@ -10,8 +10,9 @@
 ## Baseline Security Controls
 
 * [5.1 Incident Response Plan](./5-1-incident-response-plan.md)
-* Automatically patch operating systems and applications
-* Enable Security Software
+* [5.2 Automatically patch operating systems and applications](5-2-automatically-patch-os-apps.md)
+* [5.3 Enable Security Software](./5-3-enable-security-software.md)
+* [5.4 Securely Configure Devices](./5-4-securely-configure-devices.md)
 * Use Strong User Authentication
 * Backup and Encrypt Data
 * Establish Basic Permiter Defences
