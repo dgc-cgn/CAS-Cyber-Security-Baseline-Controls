@@ -37,3 +37,11 @@ Auditors shall evaluate that:
 
 - The plan should cover the following incidents at a minimum: Data breach, Ransomware, and Interruption of services due to connectivity loss (e.g., distributed denial of service [DDOS]). For incidents to which the organization is unable to respond, the plan should describe what the organization will do (e.g., Consultant company X has agreed to provide its services to respond to incident Y).
 - The organization should have a method to contact internal and external parties in the case of an incident.
+
+### Additional References
+
+- [Personal Information Protection and Electronic Documents Act](https://www.priv.gc.ca/en/privacy-topics/business-privacy/safeguards-and-breaches/privacy-breaches/respond-to-a-privacy-breach-at-your-business/gd_pb_201810/)
+- [Government of Canada Cyber Security Event Management Plan](https://www.canada.ca/en/government/system/digital-government/online-security-privacy/security-identity-management/government-canada-cyber-security-event-management-plan.html)
+- [SANS Incident Handling Forms](https://www.sans.org/information-security-policy/?category=incident-handling)
+- [Canada's Anti-Spam Legislation](https://fightspam-combattrelepourriel.ised-isde.canada.ca/site/canada-anti-spam-legislation/en)
+- [Insurance Bureau of Canada](https://www.ibc.ca/stay-protected/protect-your-business/risk-management)

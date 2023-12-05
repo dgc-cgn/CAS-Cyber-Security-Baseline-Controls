@@ -21,3 +21,7 @@ This conformity assessment scheme supports the national cybersecurity certificat
 Further details can be found at [CyberSecure Canada](https://ised-isde.canada.ca/site/cybersecure-canada/en)
 
 * Online e-learning [CyberSecure Canada Introduction to Certification](https://learning-apprentissage.ised-isde.canada.ca/course/index.php?categoryid=52)
+
+## Templates
+
+* [Templates](./scheme/templates/tools-templates.md)
