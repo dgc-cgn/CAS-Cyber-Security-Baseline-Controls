@@ -20,9 +20,11 @@ This conformity assessment scheme supports the national cybersecurity certificat
 
 [Baseline Controls](./scheme/baseline-controls.md)
 
-Further details can be found at [CyberSecure Canada](https://ised-isde.canada.ca/site/cybersecure-canada/en)
-
 * Online e-learning [CyberSecure Canada Introduction to Certification](https://learning-apprentissage.ised-isde.canada.ca/course/index.php?categoryid=52)
+
+## Originating Program
+
+The originating CyberSecure Program can be found at: [CyberSecure Canada](https://ised-isde.canada.ca/site/cybersecure-canada/en)
 
 ## Accreditation
 
