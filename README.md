@@ -1,4 +1,6 @@
-# Conformity Assessment Scheme: Baseline Cyber Security Controls for Small and Medium Organizations
+# CyberSecure Canada Program
+
+## Conformity Assessment Scheme: Baseline Cyber Security Controls for Small and Medium Organizations
 
 ## Overview
 
