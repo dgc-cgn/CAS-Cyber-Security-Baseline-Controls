@@ -22,6 +22,12 @@ Further details can be found at [CyberSecure Canada](https://ised-isde.canada.ca
 
 * Online e-learning [CyberSecure Canada Introduction to Certification](https://learning-apprentissage.ised-isde.canada.ca/course/index.php?categoryid=52)
 
+## Accreditation
+
+* [SCC Requirements and Guidance for the Accreditation of CyberSecure Canada Certification Bodies](https://www.scc.ca/en/about-scc/publications/requirements-and-procedures-accreditation/accreditation-of-cybersecure-canada-certification-bodies) 
+* [ibid in Repo](./pubs/ASB_RG_CyberSecure-Canada-AP_v4_2020-12-17%20(1).pdf)
+
+
 ## Templates
 
 * [Templates](./scheme/templates/tools-templates.md)
