@@ -1,4 +1,12 @@
-# CyberSecure Canada Program
+# CyberReady Canada 
+
+The **CyberReady** Canada program is designed to help organizations achieve compliance with the 104-1 Cybersecurity Standard, ensuring robust digital defense and operational resilience. 
+
+This program provides a comprehensive framework to guide organizations in implementing industry best practices for cybersecurity, with a focus on risk management, incident response, and data protection.
+
+Through tailored assessments, resources, and training, **CyberReady Canada** empowers businesses to proactively address cybersecurity challenges, enhance their defense mechanisms, and build a culture of digital readiness. 
+
+Aligned with the 104-1 standard, the program fosters compliance, supports certification processes, and contributes to the overall security posture of Canada's digital ecosystem.
 
 ## Conformity Assessment Scheme: Baseline Cyber Security Controls for Small and Medium Organizations
 
